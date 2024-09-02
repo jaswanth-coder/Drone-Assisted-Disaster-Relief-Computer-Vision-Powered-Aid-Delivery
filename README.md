@@ -1,6 +1,8 @@
 # **Leveraging AI-Based Drones for Effective Flood Rescue Operations**
 
-![Flood Rescue Drone](header_image_url)
+![image](https://github.com/user-attachments/assets/33a64e87-a6c0-44b5-80bc-edc91122b21d)
+
+![image](https://github.com/user-attachments/assets/01a6cf69-cd0e-4a53-af67-34b5ddfd4e57)
 
 ## **Overview**
 
